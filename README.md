@@ -1,36 +1,22 @@
 
 <p align="right">
-
 # Hi 👋, I'm Eclipsa
 
-Fullstack Developer passionate about turning ideas into digital experiences — from **web apps** to **mobile solutions**, always blending **clean code** with **creative UI/UX**.  
-Currently exploring **AI integration** to automate workflows and craft smarter applications.  
-
-Based in **Brazil**, open to remote opportunities worldwide 🌍  
-Curious mind, lifelong learner, and always shipping 🚀
+Fullstack Developer passionate about creating clean, functional and beautiful applications.  
+Focused on **Web, Mobile and AI Integration**, blending design with technology 🚀  
 
 ---
 
-```
-js
-import Developer from "Eclipsa";
+```js
+import Developer from "Brazil";
 
 class AboutMe extends Developer {
   name = "Eclipsa Moonie";
   role = "Fullstack Developer";
-  focus = ["Web", "Mobile", "AI Integration"];
-  passions = ["Clean Code", "UI/UX", "Automation"];
+  area = ["Web", "Mobile", "AI Integration"];
   location = "Brazil 🌎";
   status = "Always learning, always shipping 🚀";
-
-  introduce() {
-    return `I build apps that combine functionality with beautiful design,
-    while exploring AI to push productivity beyond limits.`;
-  }
 }
-
-export default AboutMe;
-
 
 ```
 
