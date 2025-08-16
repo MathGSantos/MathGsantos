@@ -10,7 +10,7 @@
 
 I’m a **Fullstack Developer** passionate about building **web** and **mobile** apps, blending **clean code** with **beautiful, accessible UI/UX**.  
 I also integrate **Artificial Intelligence** to automate workflows and enhance developer/productivity experiences.  
-Based in **Brazil** — open to **remote** opportunities worldwide. Always shipping, always learning. 🚀
+Based in **Brazil** — open to **remote** opportunities worldwide. Always shipping, always learning. 
 
 
 ```
@@ -141,4 +141,4 @@ class AboutMe extends Developer {
 
 ---
 
-<p align="center"> ✨ “In code we trust.” ✨ </p>
+<p align="center">  “In code we trust.”  </p>
