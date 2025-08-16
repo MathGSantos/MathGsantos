@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, I'm Matheus Santos </h1>
 
 <p align="left">
-  <img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="230" alt="Coding gif"/>
+  <img align="right" src="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif" width="230" alt="Coding gif"/>
 </p>
 
 I’m a **Fullstack Developer** passionate about building **web** and **mobile** apps, blending **clean code** with **beautiful, accessible UI/UX**.  
