@@ -23,7 +23,19 @@
 
   </div>
 </div>
+---
 
+```js
+import Developer from "Brazil";
+
+class AboutMe extends Developer {
+  name = "Eclipsa Moonie";
+  role = "Fullstack Developer";
+  area = ["Web", "Mobile", "AI Integration"];
+  location = "Brazil 🌎";
+  status = "Always learning, always shipping 🚀";
+}
+```
 ---
 
 
