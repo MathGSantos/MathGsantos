@@ -1,11 +1,7 @@
 
 <p align="right">
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=MathGSantos&label=Visits&color=1a1b27&style=flat" alt="Profile Visits"/>
-</p>
-
-<table style="border: none;" align="center">
+<table cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" width="70%">
       <h1>Hi 👋, I'm Matheus Santos</h1>
@@ -21,6 +17,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
