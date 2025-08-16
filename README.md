@@ -140,4 +140,4 @@ class AboutMe extends Developer {
 
 ---
 
-<sub>✨ “In code we trust.” ✨</sub>
+<p align="center"> ✨ “In code we trust.” ✨ </p>
