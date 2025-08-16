@@ -23,7 +23,6 @@
 
   </div>
 </div>
----
 
 ```js
 import Developer from "Brazil";
