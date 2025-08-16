@@ -85,17 +85,23 @@ class AboutMe extends Developer {
 
 ## 📊 GitHub Analytics
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MathGSantos&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathGSantos&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <!-- GitHub Stats -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MathGSantos&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" style="flex: 1; min-width: 300px;" />
+  
+  <!-- Top Languages -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathGSantos&layout=compact&theme=tokyonight" alt="Top Languages" style="flex: 1; min-width: 300px;" />
 </div>
 
-<div align="center">
+<!-- Streak Stats -->
+<div align="center" style="margin-top: 20px;">
   <img height="150em" src="https://streak-stats.demolab.com?user=MathGSantos&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
 </div>
 
-<div align="center">
+<!-- Trophies -->
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=MathGSantos&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </div>
+
 
 ---
 
