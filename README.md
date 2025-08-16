@@ -1,21 +1,26 @@
 <p align="right"> 
 
-<img src="https://komarev.com/ghpvc/?username=MathGSantos&label=Visits&color=1a1b27&style=flat" alt="Profile Visits"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=MathGSantos&label=Visits&color=1a1b27&style=flat" alt="Profile Visits"/>
+</p>
 
- </p> <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, I'm Matheus Santos </h1> <p align="right"> <img src="https://media.tenor.com/images/8814421883677539195.gif" width="230" alt="Coding gif"/> </p> I’m a **Fullstack Developer** passionate about building **web** and **mobile** apps, blending **clean code** with **beautiful, accessible UI/UX**. I also integrate **Artificial Intelligence** to automate workflows and enhance developer/productivity experiences. Based in **Brazil** — open to **remote** opportunities worldwide. Always shipping, always learning.
+<table>
+  <tr>
+    <td>
+      <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, I'm Matheus Santos</h1>
+      <p>
+        I’m a <b>Fullstack Developer</b> passionate about building <b>web</b> and <b>mobile</b> apps, blending <b>clean code</b> 
+        with <b>beautiful, accessible UI/UX</b>.<br/>
+        I also integrate <b>Artificial Intelligence</b> to automate workflows and enhance productivity experiences.<br/>
+        Based in <b>Brazil</b> — open to <b>remote</b> opportunities worldwide. Always shipping, always learning. 🚀
+      </p>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/images/8814421883677539195.gif" width="250" alt="Coding gif"/>
+    </td>
+  </tr>
+</table>
 
-
-```
-javascript
-import Developer from "MathGSantos";
-
-class AboutMe extends Developer {
-  name = "Matheus Santos";
-  role = "Fullstack Developer | UI/UX Designer";
-  skills = ["Web", "Mobile", "AI Integrations", "UI/UX"];
-  location = "Brazil";
-}
-```
 
 ---
 
