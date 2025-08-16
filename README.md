@@ -59,7 +59,6 @@ class AboutMe extends Developer {
 ### 🤖 AI & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gemini-483D8B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation-5D3FD3?style=for-the-badge" />
