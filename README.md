@@ -35,7 +35,7 @@ class AboutMe extends Developer {
 > I enjoy creating seamless user experiences while ensuring security and scalability in every project.
 
 > [!IMPORTANT]
-> 🤖 Hands-on experience with **AI-driven development** (ChatGPT/GPTs, Copilot, Gemini) for:  
+> 🤖 Hands-on experience with **AI-driven development** for:  
 > - Automating workflows and speeding up coding tasks  
 > - Parsing documentation and extracting actionable insights  
 > - Designing and implementing intelligent solutions  
