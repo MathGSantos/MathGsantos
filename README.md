@@ -21,7 +21,7 @@
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" target="_blank">
 
   <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" class="AnimatedImagePlayer-animatedImage"  style="display: block; opacity: 1;">
+            <img data-target="animated-image.replacedImage"  class="AnimatedImagePlayer-animatedImage"  style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="220" height="276"></canvas></span></a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" hidden=""></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
