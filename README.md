@@ -28,11 +28,12 @@
 import Developer from "Brazil";
 
 class AboutMe extends Developer {
-  name = "Eclipsa Moonie";
-  role = "Fullstack Developer";
+  name = "Matheus Santos";
+  role = "Developer";
+  level = "junior";
   area = ["Web", "Mobile", "AI Integration"];
-  location = "Brazil 🌎";
-  status = "Always learning, always shipping 🚀";
+  location = "Brazil ";
+  status = "Always learning, always shipping ";
 }
 ```
 ---
