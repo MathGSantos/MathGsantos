@@ -120,7 +120,7 @@ class AboutMe extends Developer {
 ## 🦋 Available for new opportunities — #OpenToWork 🚀
 
 > Open to **Fullstack Development**, **UI/UX Design**, and **AI-powered solutions**.  
-> If you need someone to turn ideas into **beautiful, responsive, and functional** experiences — or to **automate smart workflows** — let’s team up!
+> If you need someone to turn ideas into **beautiful, responsive, and functional** experiences, or to **automate smart workflows** ... let’s team up!
 
 <p align="center">
   <a href="mailto:matheus.g.santos.dev@gmail.com">
