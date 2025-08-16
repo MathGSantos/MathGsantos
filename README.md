@@ -9,13 +9,6 @@
   <div align="left">
     <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, I'm Matheus Santos</h1>
 </div> 
- <p>
-      I’m a <b>Fullstack Developer</b> passionate about building <b>web</b> and <b>mobile</b> apps, blending <b>clean code</b> 
-      with <b>beautiful, accessible UI/UX</b>.<br/>
-      I also integrate <b>Artificial Intelligence</b> to automate workflows and enhance productivity experiences.<br/>
-      Based in <b>Brazil</b> — open to <b>remote</b> opportunities worldwide. Always shipping, always learning. 🚀
-    </p>
-
 <animated-image data-catalyst="" style="float: right; width: 26%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" data-target="animated-image.originalLink"><img align="right" src="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" target="_blank">
@@ -41,6 +34,14 @@
           </a>
         </span>
       </span></animated-image>
+ <p>
+      I’m a <b>Fullstack Developer</b> passionate about building <b>web</b> and <b>mobile</b> apps, blending <b>clean code</b> 
+      with <b>beautiful, accessible UI/UX</b>.<br/>
+      I also integrate <b>Artificial Intelligence</b> to automate workflows and enhance productivity experiences.<br/>
+      Based in <b>Brazil</b> — open to <b>remote</b> opportunities worldwide. Always shipping, always learning. 🚀
+    </p>
+
+
  
   </div>
 
