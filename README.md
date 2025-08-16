@@ -36,10 +36,7 @@
       </span></animated-image>
 
  <p>
-      I’m a <b>Fullstack Developer</b> passionate about building <b>web</b> and <b>mobile</b> apps, blending <b>clean code</b> 
-      with <b>beautiful, accessible UI/UX</b>.<br/>
-      I also integrate <b>Artificial Intelligence</b> to automate workflows and enhance productivity experiences.<br/>
-      Based in <b>Brazil</b> — open to <b>remote</b> opportunities worldwide. Always shipping, always learning. 🚀
+     I’m a Fullstack Developer who turns ideas into responsive web and mobile experiences. I craft clean, maintainable code while creating intuitive and accessible interfaces that delight users. I also leverage AI tools to automate repetitive workflows, optimize development speed, and build smarter solutions. Based in Brazil — open to remote collaborations worldwide, always experimenting, shipping fast, and learning constantly. 
     </p>
 
 
