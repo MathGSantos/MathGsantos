@@ -1,11 +1,10 @@
 
-<p align="center">
+<p align="right">
 
   <img src="https://komarev.com/ghpvc/?username=MathGSantos&label=Visits&color=1a1b27&style=flat" alt="Profile Visits"/>
 </p>
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
     
   <div align="left">
     <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, I'm Matheus Santos</h1>
