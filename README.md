@@ -20,9 +20,7 @@
 
   </div>
 </div>
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: center;">
-  <!-- Bloco do código -->
-  <div style="background:#0d1117; padding:20px; border-radius:10px;">
+
 
 ```js
 import Developer from "Brazil";
