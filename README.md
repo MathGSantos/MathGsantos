@@ -1,26 +1,27 @@
-<p align="right"> 
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=MathGSantos&label=Visits&color=1a1b27&style=flat" alt="Profile Visits"/>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, I'm Matheus Santos</h1>
-      <p>
-        I’m a <b>Fullstack Developer</b> passionate about building <b>web</b> and <b>mobile</b> apps, blending <b>clean code</b> 
-        with <b>beautiful, accessible UI/UX</b>.<br/>
-        I also integrate <b>Artificial Intelligence</b> to automate workflows and enhance productivity experiences.<br/>
-        Based in <b>Brazil</b> — open to <b>remote</b> opportunities worldwide. Always shipping, always learning. 🚀
-      </p>
-    </td>
-    <td>
-      <img src="https://media.tenor.com/images/8814421883677539195.gif" width="250" alt="Coding gif"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    
+  <div align="left">
+    <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, I'm Matheus Santos</h1>
+    <p>
+      I’m a <b>Fullstack Developer</b> passionate about building <b>web</b> and <b>mobile</b> apps, blending <b>clean code</b> 
+      with <b>beautiful, accessible UI/UX</b>.<br/>
+      I also integrate <b>Artificial Intelligence</b> to automate workflows and enhance productivity experiences.<br/>
+      Based in <b>Brazil</b> — open to <b>remote</b> opportunities worldwide. Always shipping, always learning. 🚀
+    </p>
+  </div>
 
+  <div>
+    <img src="https://media.tenor.com/images/8814421883677539195.gif" width="230" alt="Coding gif"/>
+  </div>
+
+  </div>
+</div>
 
 ---
 
