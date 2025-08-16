@@ -1,18 +1,11 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=MathGSantos&label=Visits&color=1a1b27&style=flat" alt="Profile Visits"/>
-</p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, I'm Matheus Santos </h1>
-
-<p align="right">
-  <img src="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" width="230" alt="Coding gif"/>
-</p>
-
-I’m a **Fullstack Developer** passionate about building **web** and **mobile** apps, blending **clean code** with **beautiful, accessible UI/UX**.  
-I also integrate **Artificial Intelligence** to automate workflows and enhance developer/productivity experiences.  
-Based in **Brazil** — open to **remote** opportunities worldwide. Always shipping, always learning. 🚀
-
-```javascript
+<table>
+  <tr>
+    <td>
+      I’m a <b>Fullstack Developer</b> passionate about building <b>web</b> and <b>mobile</b> apps, blending <b>clean code</b> with <b>beautiful, accessible UI/UX</b>.<br>
+      I also integrate <b>Artificial Intelligence</b> to automate workflows and enhance developer/productivity experiences.<br>
+      Based in <b>Brazil</b> — open to <b>remote</b> opportunities worldwide. Always shipping, always learning. 🚀
+      
+      <pre>
 import Developer from "MathGSantos";
 
 class AboutMe extends Developer {
@@ -21,7 +14,14 @@ class AboutMe extends Developer {
   skills = ["Web", "Mobile", "AI Integrations", "UI/UX"];
   location = "Brazil";
 }
-```
+      </pre>
+    </td>
+    <td>
+      <img src="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" width="230" alt="Coding gif"/>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
