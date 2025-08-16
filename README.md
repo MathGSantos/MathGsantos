@@ -1,24 +1,38 @@
 
 <p align="right">
 
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="70%">
-      <h1>Hi 👋, I'm Matheus Santos</h1>
-      <p>
-        I’m a <b>Fullstack Developer</b> passionate about building <b>web</b> and <b>mobile</b> apps, blending <b>clean code</b> 
-        with <b>beautiful, accessible UI/UX</b>.<br/><br/>
-        I also integrate <b>Artificial Intelligence</b> to automate workflows and enhance productivity experiences.<br/><br/>
-        Based in <b>Brazil</b> — open to <b>remote</b> opportunities worldwide. Always shipping, always learning. 🚀
-      </p>
-    </td>
-    <td valign="center" width="30%" align="center">
-      <img src="https://media.tenor.com/images/8814421883677539195.gif" width="250" alt="Coding gif"/>
-    </td>
-  </tr>
-</table>
+# Hi 👋, I'm Eclipsa
+
+Fullstack Developer passionate about turning ideas into digital experiences — from **web apps** to **mobile solutions**, always blending **clean code** with **creative UI/UX**.  
+Currently exploring **AI integration** to automate workflows and craft smarter applications.  
+
+Based in **Brazil**, open to remote opportunities worldwide 🌍  
+Curious mind, lifelong learner, and always shipping 🚀
+
+---
+
+```
+js
+import Developer from "Eclipsa";
+
+class AboutMe extends Developer {
+  name = "Eclipsa Moonie";
+  role = "Fullstack Developer";
+  focus = ["Web", "Mobile", "AI Integration"];
+  passions = ["Clean Code", "UI/UX", "Automation"];
+  location = "Brazil 🌎";
+  status = "Always learning, always shipping 🚀";
+
+  introduce() {
+    return `I build apps that combine functionality with beautiful design,
+    while exploring AI to push productivity beyond limits.`;
+  }
+}
+
+export default AboutMe;
 
 
+```
 
 ---
   <img src="https://komarev.com/ghpvc/?username=MathGSantos&label=Visits&color=1a1b27&style=flat" alt="Profile Visits"/>
