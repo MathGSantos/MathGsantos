@@ -28,7 +28,6 @@ class AboutMe extends Developer {
 
 > [!NOTE]
 > 🎓 Degree: **Technologist in Internet Systems** — Estácio de Sá  
-> (Completed: Dec/2023 · Diploma: Feb/2024)
 
 > [!TIP]
 > 💡 I love **Web & Mobile**, **Information Security**, and **Interface Design**.
