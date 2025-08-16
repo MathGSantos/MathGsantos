@@ -1,26 +1,6 @@
 
 <p align="right">
-# Hi 👋, I'm Eclipsa
 
-Fullstack Developer passionate about creating clean, functional and beautiful applications.  
-Focused on **Web, Mobile and AI Integration**, blending design with technology 🚀  
-
----
-
-```js
-import Developer from "Brazil";
-
-class AboutMe extends Developer {
-  name = "Eclipsa Moonie";
-  role = "Fullstack Developer";
-  area = ["Web", "Mobile", "AI Integration"];
-  location = "Brazil 🌎";
-  status = "Always learning, always shipping 🚀";
-}
-
-```
-
----
   <img src="https://komarev.com/ghpvc/?username=MathGSantos&label=Visits&color=1a1b27&style=flat" alt="Profile Visits"/>
 </p>
 
