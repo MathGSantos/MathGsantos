@@ -33,7 +33,7 @@ class AboutMe extends Developer {
 > (Completed: Dec/2023 · Diploma: Feb/2024)
 
 > [!TIP]
-> 💡 I love **web & mobile**, **information security**, and **interface design**.
+> 💡 I love **Web & Mobile**, **Information Security**, and **Interface Design**.
 
 > [!IMPORTANT]
 > 🤖 Strong hands-on with **AI tools** (ChatGPT/GPTs, Copilot, Gemini) for automation, code acceleration, docs parsing, prompt engineering & content creation — plus creative design with **Canva**.
