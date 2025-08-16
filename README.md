@@ -27,13 +27,19 @@ class AboutMe extends Developer {
 
 
 > [!NOTE]
-> 🎓 Degree: **Technologist in Internet Systems** — Estácio de Sá  
+> 🎓 **Degree:** Technologist in Internet Systems — Estácio de Sá   
+> Built a solid foundation in software development, system architecture, and database management, preparing for real-world projects.
 
 > [!TIP]
-> 💡 I love **Web & Mobile**, **Information Security**, and **Interface Design**.
+> 💡 Passionate about **Web & Mobile Development**, **Cybersecurity**, and **UI/UX Design**.  
+> I enjoy creating seamless user experiences while ensuring security and scalability in every project.
 
 > [!IMPORTANT]
-> 🤖 Strong hands-on with **AI tools** (ChatGPT/GPTs, Copilot, Gemini) for automation, code acceleration, docs parsing, prompt engineering & content creation — plus creative design with **Canva**.
+> 🤖 Hands-on experience with **AI-driven development** (ChatGPT/GPTs, Copilot, Gemini) for:  
+> - Automating workflows and speeding up coding tasks  
+> - Parsing documentation and extracting actionable insights  
+> - Designing and implementing intelligent solutions  
+> Combined with **creative design skills** in **Canva**, I craft projects that are not only functional but visually engaging.
 
 ---
 
