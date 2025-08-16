@@ -1,6 +1,31 @@
 
 <p align="right">
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: center;">
+  <!-- Bloco do código -->
+  <div style="background:#0d1117; padding:20px; border-radius:10px;">
+    <pre><code>
+import Developer from "Brazil";
+
+class AboutMe extends Developer {
+  name = "Matheus Santos";
+  role = "Developer";
+  level = "junior";
+  area = ["Web", "Mobile", "AI Integration"];
+  location = "Brazil";
+  status = "Always learning, always shipping";
+}
+    </code></pre>
+  </div>
+
+  <!-- Bloco da imagem -->
+  <div style="text-align: center;">
+    <img src="a74b23aa-8d7a-436b-9dbb-6a9b2b6338e7.png" alt="Ilustração" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
+---
+
   <img src="https://komarev.com/ghpvc/?username=MathGSantos&label=Visits&color=1a1b27&style=flat" alt="Profile Visits"/>
 </p>
 
