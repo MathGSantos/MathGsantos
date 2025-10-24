@@ -1,17 +1,47 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=MathGSantos&label=Visitas&color=1a1b27&style=flat" alt="Visitas no Perfil"/> </p> 
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=MathGSantos&label=Visitas&color=1a1b27&style=flat" alt="Visitas no Perfil"/> 
+</p> 
+
 <div align="left"> 
-  <h1>Oi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, eu sou Matheus Santos</h1> 
+  <h1>Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, eu sou Matheus Santos</h1> 
 </div> 
-<animated-image data-catalyst="" style="float: right; width: 26%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" data-target="animated-image.originalLink"><img align="right" src="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden=""> <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" target="_blank"> <span data-target="animated-image.imageContainer"> <img data-target="animated-image.replacedImage" class="AnimatedImagePlayer-animatedImage" style="display: block; opacity: 1;"> <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="220" height="276"></canvas></span></a> <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" hidden=""></button> <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden=""> <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Reproduzir"> <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z"> </path></svg> <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"> <rect x="4" y="2" width="3" height="12" rx="1"></rect> <rect x="9" y="2" width="3" height="12" rx="1"></rect> </svg> </button> <a data-target="animated-image.openButton" class="AnimatedImagePlayer-button" href="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" target="_blank"> <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"> <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path> </svg> </a> </span> </span></animated-image> 
-<p> Sou um Desenvolvedor Fullstack que transforma ideias em experiências web e mobile responsivas. Crio códigos limpos e de fácil manutenção, enquanto desenvolvo interfaces intuitivas e acessíveis que encantam os usuários. Também utilizo ferramentas de IA para automatizar fluxos de trabalho repetitivos, otimizar a velocidade de desenvolvimento e criar soluções mais inteligentes. Baseado no Brasil, aberto a colaborações remotas em todo o mundo — sempre experimentando, entregando rápido e aprendendo constantemente. </p>
- 
-  </div>
 
+<animated-image data-catalyst="" style="float: right; width: 26%;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" data-target="animated-image.originalLink">
+    <img align="right" src="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif?ex=68a19559&is=68a043d9&hm=df5e64eefc91f1781094c16c2886ee709b60281002773285d75e6b60452bba65&=&width=625&height=625" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  </a> 
+  <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden=""> 
+    <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif" target="_blank"> 
+      <span data-target="animated-image.imageContainer"> 
+        <img data-target="animated-image.replacedImage" class="AnimatedImagePlayer-animatedImage" style="display: block; opacity: 1;"> 
+        <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="220" height="276"></canvas>
+      </span>
+    </a> 
+    <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" hidden=""></button> 
+    <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden=""> 
+      <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Reproduzir Animação"> 
+        <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"> 
+          <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z"></path>
+        </svg> 
+        <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"> 
+          <rect x="4" y="2" width="3" height="12" rx="1"></rect> 
+          <rect x="9" y="2" width="3" height="12" rx="1"></rect> 
+        </svg> 
+      </button> 
+      <a data-target="animated-image.openButton" class="AnimatedImagePlayer-button" href="https://media.discordapp.net/attachments/1396970504631353516/1406195752610431047/Web_Design_Layout.gif" target="_blank"> 
+        <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"> 
+          <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path> 
+        </svg> 
+      </a> 
+    </span> 
+  </span>
+</animated-image> 
 
-  </div>
+<p>Sou um Desenvolvedor Fullstack que transforma ideias em experiências web e mobile responsivas. Crio códigos limpos e de fácil manutenção enquanto desenvolvo interfaces intuitivas e acessíveis que encantam os usuários. Também utilizo ferramentas de IA para automatizar fluxos repetitivos, otimizar a velocidade de desenvolvimento e criar soluções mais inteligentes. Baseado no Brasil, aberto a colaborações remotas em todo o mundo, sempre experimentando, entregando rápido e aprendendo constantemente.</p>
+
 </div>
-
-
+</div>
+</div>
 
 ```js
 import Developer from "Brazil";
@@ -26,14 +56,11 @@ class AboutMe extends Developer {
 }
 ```
 
-
-
 ---
 
-
 > [!NOTE]
-> 🎓 **Formação:** Tecnólogo em Sistemas para Internet — Estácio de Sá   
-> Construí uma base sólida em desenvolvimento de software, arquitetura de sistemas e gerenciamento de banco de dados, me preparando para projetos reais.
+> 🎓 **Formação:** Tecnólogo em Sistemas para Internet — Estácio de Sá  
+> Desenvolvi uma base sólida em desenvolvimento de software, arquitetura de sistemas e gerenciamento de banco de dados, preparando-me para projetos reais.
 
 > [!TIP]
 > 💡 Apaixonado por **Desenvolvimento Web e Mobile**, **Cibersegurança** e **Design UI/UX**.  
@@ -42,9 +69,9 @@ class AboutMe extends Developer {
 > [!IMPORTANT]
 > 🤖 Experiência prática com **desenvolvimento orientado por IA** para:  
 > - Automatizar fluxos de trabalho e acelerar tarefas de codificação  
-> - Analisar documentação e extrair informações relevantes  
+> - Interpretar documentação e extrair insights úteis  
 > - Projetar e implementar soluções inteligentes  
-> Combinado a **habilidades criativas de design** no **Canva**, desenvolvo projetos que são não apenas funcionais, mas também visualmente atraentes.
+> Combinando com **habilidades criativas em design** no **Canva**, desenvolvo projetos funcionais e visualmente atraentes.
 
 ---
 
@@ -75,8 +102,8 @@ class AboutMe extends Developer {
 - **Express.js**, **Prisma ORM**
 - **Tailwind CSS**, **Bootstrap**
 - **Pandas / NumPy**
-- **JWT / Fluxos de Autenticação**, **REST**
-- **Testes básicos (Jest/RTL)**
+- **JWT / Fluxos de autenticação**, **REST**
+- **Noções de testes (Jest/RTL)**
 
 ---
 
@@ -106,26 +133,27 @@ class AboutMe extends Developer {
   </tr>
 </table>
 
+<!-- Streak Stats -->
 <p align="center">
-  <img height="150em" src="https://streak-stats.demolab.com?user=MathGSantos&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Sequência de Contribuições"/>
+  <img height="150em" src="https://streak-stats.demolab.com?user=MathGSantos&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Contribuições Seguidas"/>
 </p>
 
+<!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MathGSantos&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus"/>
 </p>
 
-
 ---
 
 > [!WARNING]
-> 🚧 **Novos repositórios em breve** — mostrando projetos que unem **tecnologia + IA + design**.
+> 🚧 **Novos repositórios em breve** — apresentando projetos que unem **tecnologia + IA + design**.
 
 ---
 
-## 🦋 Disponível para novas oportunidades — #OpenToWork 🚀
+## 🦋 Aberto a novas oportunidades — #OpenToWork 🚀
 
 > Aberto a **Desenvolvimento Fullstack**, **Design UI/UX** e **soluções com IA**.  
-> Se você precisa de alguém para transformar ideias em experiências **bonitas, responsivas e funcionais**, ou para **automatizar fluxos de trabalho inteligentes** ... vamos trabalhar juntos!
+> Se você precisa de alguém para transformar ideias em experiências **bonitas, responsivas e funcionais**, ou para **automatizar fluxos inteligentes**... vamos trabalhar juntos!
 
 <p align="center">
   <a href="mailto:matheus.g.santos.dev@gmail.com">
@@ -144,4 +172,4 @@ class AboutMe extends Developer {
 
 ---
 
-<p align="center">  “No código nós confiamos.”  </p>
+<p align="center"> “No código nós confiamos.” </p>
