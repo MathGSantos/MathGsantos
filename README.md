@@ -44,7 +44,7 @@
 </div>
 
 ```js
-import Developer from "Brazil";
+import Developer from "Brasil";
 
 class AboutMe extends Developer {
   name = "Matheus Santos";
