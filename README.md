@@ -125,22 +125,23 @@ class AboutMe extends Developer {
 <table align="center">
   <tr>
     <td>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MathGSantos&show_icons=true&theme=tokyonight&hide=issues" alt="Estatísticas do GitHub"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MathGSantos&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats"/>
     </td>
     <td>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathGSantos&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathGSantos&layout=compact&theme=tokyonight" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
 <!-- Streak Stats -->
+
 <p align="center">
-  <img height="150em" src="https://streak-stats.demolab.com?user=MathGSantos&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Contribuições Seguidas"/>
+  <img height="150em" src="https://streak-stats.demolab.com?user=MathGSantos&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MathGSantos&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MathGSantos&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
